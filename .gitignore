@@ -10,3 +10,4 @@ env.py
 Thumbs.db
 .vscode/
 *.html
+env
